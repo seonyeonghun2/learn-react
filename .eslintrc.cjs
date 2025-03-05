@@ -22,4 +22,6 @@ module.exports = {
     "react/prop-types": "off",
     "prettier/prettier": "error",
   },
+  "no-unused-vars": "off",
+  "react/prop-types": "off",
 };
