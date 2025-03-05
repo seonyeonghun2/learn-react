@@ -1,0 +1,25 @@
+.todo_wrap {
+  background: white;
+  box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 2rem;
+}
+
+.header {
+  background: rgb(36, 123, 193);
+  background: linear-gradient(
+    90deg,
+    rgba(36, 123, 193, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  width: 100%;
+}
+
+li svg {
+  display: inline-block;
+}
+
+* {
+  margin: 1rem;
+}
